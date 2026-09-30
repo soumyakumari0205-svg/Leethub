@@ -49,3 +49,19 @@ I will continuously update this repository as I solve more problems.
 ---
 
 **LeetCode:** Practice → Solve → Learn → Repeat 🔥
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/soumyakumari0205-svg/Leethub/tree/master/0073-set-matrix-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/soumyakumari0205-svg/Leethub/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/soumyakumari0205-svg/Leethub/tree/master/0073-set-matrix-zeroes) |
+<!---LeetCode Topics End-->

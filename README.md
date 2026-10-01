@@ -64,4 +64,16 @@ I will continuously update this repository as I solve more problems.
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/soumyakumari0205-svg/Leethub/tree/master/0073-set-matrix-zeroes) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/soumyakumari0205-svg/Leethub/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/soumyakumari0205-svg/Leethub/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/soumyakumari0205-svg/Leethub/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

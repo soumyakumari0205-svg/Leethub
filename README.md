@@ -56,6 +56,7 @@ I will continuously update this repository as I solve more problems.
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/soumyakumari0205-svg/Leethub/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/soumyakumari0205-svg/Leethub/tree/master/0118-pascals-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,4 +85,8 @@ I will continuously update this repository as I solve more problems.
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/soumyakumari0205-svg/Leethub/tree/master/1486-xor-operation-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/soumyakumari0205-svg/Leethub/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->

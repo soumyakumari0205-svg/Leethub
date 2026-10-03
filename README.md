@@ -57,10 +57,12 @@ I will continuously update this repository as I solve more problems.
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/soumyakumari0205-svg/Leethub/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/soumyakumari0205-svg/Leethub/tree/master/0118-pascals-triangle) |
+| [0169-majority-element](https://github.com/soumyakumari0205-svg/Leethub/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/soumyakumari0205-svg/Leethub/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/soumyakumari0205-svg/Leethub/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -89,4 +91,20 @@ I will continuously update this repository as I solve more problems.
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/soumyakumari0205-svg/Leethub/tree/master/0118-pascals-triangle) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/soumyakumari0205-svg/Leethub/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/soumyakumari0205-svg/Leethub/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/soumyakumari0205-svg/Leethub/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/soumyakumari0205-svg/Leethub/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

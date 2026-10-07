@@ -57,6 +57,7 @@ I will continuously update this repository as I solve more problems.
 | ------- |
 | [0015-3sum](https://github.com/soumyakumari0205-svg/Leethub/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/soumyakumari0205-svg/Leethub/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/soumyakumari0205-svg/Leethub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/soumyakumari0205-svg/Leethub/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/soumyakumari0205-svg/Leethub/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/soumyakumari0205-svg/Leethub/tree/master/0169-majority-element) |
@@ -121,4 +122,5 @@ I will continuously update this repository as I solve more problems.
 | ------- |
 | [0015-3sum](https://github.com/soumyakumari0205-svg/Leethub/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/soumyakumari0205-svg/Leethub/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/soumyakumari0205-svg/Leethub/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->

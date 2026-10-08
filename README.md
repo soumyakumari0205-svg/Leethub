@@ -76,14 +76,17 @@ I will continuously update this repository as I solve more problems.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/soumyakumari0205-svg/Leethub/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/soumyakumari0205-svg/Leethub/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/soumyakumari0205-svg/Leethub/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/soumyakumari0205-svg/Leethub/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/soumyakumari0205-svg/Leethub/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/soumyakumari0205-svg/Leethub/tree/master/1021-remove-outermost-parentheses) |
 ## Math
 |  |
 | ------- |

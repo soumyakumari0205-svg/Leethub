@@ -77,6 +77,7 @@ I will continuously update this repository as I solve more problems.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/soumyakumari0205-svg/Leethub/tree/master/0020-valid-parentheses) |
+| [0171-excel-sheet-column-number](https://github.com/soumyakumari0205-svg/Leethub/tree/master/0171-excel-sheet-column-number) |
 | [1021-remove-outermost-parentheses](https://github.com/soumyakumari0205-svg/Leethub/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
@@ -91,6 +92,7 @@ I will continuously update this repository as I solve more problems.
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/soumyakumari0205-svg/Leethub/tree/master/0171-excel-sheet-column-number) |
 | [1486-xor-operation-in-an-array](https://github.com/soumyakumari0205-svg/Leethub/tree/master/1486-xor-operation-in-an-array) |
 ## Bit Manipulation
 |  |

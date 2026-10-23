@@ -63,6 +63,7 @@ I will continuously update this repository as I solve more problems.
 | [0118-pascals-triangle](https://github.com/soumyakumari0205-svg/Leethub/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/soumyakumari0205-svg/Leethub/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/soumyakumari0205-svg/Leethub/tree/master/0229-majority-element-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/soumyakumari0205-svg/Leethub/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,6 +99,7 @@ I will continuously update this repository as I solve more problems.
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/soumyakumari0205-svg/Leethub/tree/master/1486-xor-operation-in-an-array) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/soumyakumari0205-svg/Leethub/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |

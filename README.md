@@ -63,6 +63,7 @@ I will continuously update this repository as I solve more problems.
 | [0118-pascals-triangle](https://github.com/soumyakumari0205-svg/Leethub/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/soumyakumari0205-svg/Leethub/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/soumyakumari0205-svg/Leethub/tree/master/0229-majority-element-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/soumyakumari0205-svg/Leethub/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/soumyakumari0205-svg/Leethub/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Hash Table
 |  |
@@ -74,6 +75,7 @@ I will continuously update this repository as I solve more problems.
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/soumyakumari0205-svg/Leethub/tree/master/0073-set-matrix-zeroes) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/soumyakumari0205-svg/Leethub/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -136,4 +138,16 @@ I will continuously update this repository as I solve more problems.
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/soumyakumari0205-svg/Leethub/tree/master/0056-merge-intervals) |
+## Depth-First Search
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/soumyakumari0205-svg/Leethub/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/soumyakumari0205-svg/Leethub/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Union-Find
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/soumyakumari0205-svg/Leethub/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
